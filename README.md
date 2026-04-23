@@ -1,7 +1,3 @@
-Claro! Abaixo está um modelo de `README.md` ideal para o seu projeto de ChatBot com IA feito com Streamlit e a API da OpenAI:
-
----
-
 # 🤖 ChatBot com IA - Streamlit + OpenAI
 
 Este é um projeto simples de ChatBot construído com **Python**, utilizando o **Streamlit** como interface web e a **API da OpenAI** para gerar respostas com inteligência artificial.
@@ -18,14 +14,6 @@ Este é um projeto simples de ChatBot construído com **Python**, utilizando o *
 * Histórico de mensagens salvo em `st.session_state` para manter a conversa.
 * Integração com a API da OpenAI utilizando o modelo `gpt-4o`.
 * Respostas geradas automaticamente com base na entrada do usuário.
-
----
-
-## 📸 Demonstração
-
-> O usuário digita uma mensagem e o bot responde automaticamente com base no modelo GPT da OpenAI.
-
-![Demonstração da interface do chatbot](#) <!-- Substituir pelo link da imagem/gif se tiver -->
 
 ---
 
